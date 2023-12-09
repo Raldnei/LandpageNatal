@@ -53,7 +53,7 @@ header {
 #menu a {
     color: #fff;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 #menu a:hover {
@@ -118,7 +118,7 @@ header {
 
 #bloco2 h1 {
     font-family: 'Cherry Swash', serif;
-    font-size: 7em;
+    font-size: 4em;
     margin: 3px;
     padding: 0;
     letter-spacing: 2px;
